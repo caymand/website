@@ -27,6 +27,7 @@ well ass computational computer science such as image processing and simulation.
 2019-2022 **BSc in Computer Science (Datalogi)**
 :	For my bachelor thesis, I extended the [Futhark compiler](https://github.com/diku-dk/futhark) with an additional
 backend to generate efficient SIMD code for the CPU. The work has been experimentally merged into the compiler.
+See the thesis at [futhark-lang.org](ttps://futhark-lang.org/student-projects/ispc-bsc-thesis.pdf)
 
 ## NÆRUM GYMNASIUM
 2015-2018
